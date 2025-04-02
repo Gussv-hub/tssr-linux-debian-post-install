@@ -1,3 +1,5 @@
+sudo
+bat
 nmap
 net-tools
 htop
