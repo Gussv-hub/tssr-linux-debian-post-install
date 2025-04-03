@@ -1,4 +1,6 @@
 sudo
+ssh
+docker
 bat
 nmap
 net-tools
